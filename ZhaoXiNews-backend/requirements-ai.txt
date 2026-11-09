@@ -1,0 +1,6 @@
+../ai-agent
+langchain==1.4.9
+langchain-community==0.4.2
+dashscope==1.27.8
+langchain-chroma==1.1.0
+pypdf==7.0.0

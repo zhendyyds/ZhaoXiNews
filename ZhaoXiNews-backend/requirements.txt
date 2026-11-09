@@ -1,0 +1,10 @@
+-r requirements-ai.txt
+fastapi==0.162.2
+uvicorn==0.54.0
+SQLAlchemy[asyncio]==2.1.8
+pydantic==2.14.3
+aiomysql==0.3.2
+redis==8.1.0
+passlib==1.7.4
+bcrypt==4.3.0
+python-dotenv==1.2.4
